@@ -38,5 +38,5 @@ Da biste instalirali BrickBreaker s GitHuba, slijedite ove korake:
 BrickBreaker je licenciran pod licencom MIT-a. To znači da možete slobodno koristiti, mijenjati i distribuirati igru sve dok uključite originalnu obavijest o autorskim pravima i licenci.
 
 ## DOPRINOS
-Ako želite pridonijeti BrickBreakeru, slobodno otvorite zahtjev za povlačenje ili prijavite problem na GitHub stranici projekta. Pozdravljamo sve doprinose, velike ili male!
+Ako želite pridonijeti BrickBreakeru, slobodno otvorite zahtjev za povlačenje ili prijavite problem na GitHub stranici projekta. Prihvaćamo sve doprinose, velike ili male!
 
