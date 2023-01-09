@@ -5,10 +5,7 @@ Brick Breaker game in Console
 Dobrodošli u BrickBreaker! BrickBreaker je jednostavna igra u kojoj igrač razbija cigle odbijanjem lopte od vesla. Cilj je očistiti sve kocke na ekranu kako biste pobijedili u igri.
 
 ## IZGRADNJA I POKRETANJE IGRE
-Za izradu i pokretanje BrickBreakera trebat će vam C++ kompajler (kao što je GCC ili Clang).
-
-### INSTALACIJA I POKRETANJE IGRE
-Da biste instalirali BrickBreaker s GitHuba, slijedite ove korake:
+Da biste izradili i pokrenuli BrickBreaker koristeći Visual Studio, slijedite ove korake:
 
   1. Otvorite Visual Studio i odaberite "Create a new project".
   2. Odaberite "C++" kao jezik i "console application" kao vrstu projekta.
@@ -17,6 +14,16 @@ Da biste instalirali BrickBreaker s GitHuba, slijedite ove korake:
   5. Dođite do lokacije svojih izvornih datoteka (npr. Main.cpp, BrickBreaker.cpp i BrickBreaker.hpp) i odaberite ih. Pritisnite "Add".
   6. Za izradu igre idite na izbornik "Build" i odaberite "Build Solution".
   7. Za pokretanje igre idite na izbornik "Debug" i odaberite "Start Without Debugging" (ili pritisnite Ctrl+F5).
+
+### INSTALACIJA I POKRETANJE IGRE
+Da biste instalirali BrickBreaker s GitHuba, slijedite ove korake:
+
+  1. Idite na stranicu [BrickBreaker GitHub](https://github.com/Cr4zyCRO/Brick-Breaker).
+  2. Pritisnite gumb "Clone or download", a zatim kliknite "Download ZIP".
+  3. Izdvojite ZIP datoteku u mapu na računalu.
+  4. U Visual Studiju otvorite izbornik "File" i odaberite "Open > Project/Solution".
+  5. Dođite do mape u koju ste izdvojili datoteke i odaberite projektnu datoteku (npr. BrickBreaker.sln). Pritisnite "Otvori".
+  6. Projekt bi sada trebao biti učitan u Visual Studio. Za izradu i pokretanje igre slijedite upute u gornjem odjeljku "Izrada i pokretanje igre".
     
 ## ZNAČALJKE
 1 razina igranja
