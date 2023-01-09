@@ -1,4 +1,4 @@
-**# Brick-Breaker**
+# Brick-Breaker
 Brick Breaker game in Console
 
 ## UVOD
@@ -26,10 +26,10 @@ Da biste instalirali BrickBreaker s GitHuba, slijedite ove korake:
 1 razina igranja
 
 ## MOGUĆA POBOLJŠANJA
-  Bodovanje razine
-  Dodavanje više razina
-  Implementacija pojačanja (power-ups)
-  Korištenje GUI biblioteke (kao što je Qt ili SDL) umjesto konzole
+  1. Bodovanje razine
+  2. Dodavanje više razina
+  3. Implementacija pojačanja (power-ups)
+  4. Korištenje GUI biblioteke (kao što je Qt ili SDL) umjesto konzole
 
 ## LICENCA
 BrickBreaker je licenciran pod licencom MIT-a. To znači da možete slobodno koristiti, mijenjati i distribuirati igru sve dok uključite originalnu obavijest o autorskim pravima i licenci.
