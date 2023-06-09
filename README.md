@@ -1,42 +1,41 @@
 # Brick-Breaker
-Brick Breaker game in Console
+Brick Breaker Game in Console
 
-## UVOD
-Dobrodošli u BrickBreaker! BrickBreaker je jednostavna igra u kojoj igrač razbija cigle odbijanjem lopte od vesla. Cilj je očistiti sve kocke na ekranu kako biste pobijedili u igri.
+## INTRODUCTION
+Welcome to BrickBreaker! BrickBreaker is a simple game where the player breaks bricks by bouncing a ball off a paddle. The goal is to clear all the bricks on the screen to win the game
 
-## IZGRADNJA I POKRETANJE IGRE
-Da biste izradili i pokrenuli BrickBreaker koristeći Visual Studio, slijedite ove korake:
+## BUILDING AND RUNNING THE GAME
+To build and run BrickBreaker using Visual Studio, follow these steps:
 
-  1. Otvorite Visual Studio i odaberite "Create a new project".
-  2. Odaberite "C++" kao jezik i "console application" kao vrstu projekta.
-  3. Dodijelite svom projektu naziv (npr. "BrickBreaker") i kliknite "Create".
-  4. U prozoru Solution Explorera desnom tipkom miša kliknite mapu "Source Files" i odaberite "Add > Existing Item".
-  5. Dođite do lokacije svojih izvornih datoteka (npr. Main.cpp, BrickBreaker.cpp i BrickBreaker.hpp) i odaberite ih. Pritisnite "Add".
-  6. Za izradu igre idite na izbornik "Build" i odaberite "Build Solution".
-  7. Za pokretanje igre idite na izbornik "Debug" i odaberite "Start Without Debugging" (ili pritisnite Ctrl+F5).
+  1. Open Visual Studio and select "Create a new project".
+  2. Choose "C++" as the language and "console application" as the project type.
+  3. Give your project a name (e.g., "BrickBreaker") and click "Create".
+  4. In the Solution Explorer window, right-click the "Source Files" folder and choose "Add > Existing Item".
+  5. Navigate to the location of your source files (e.g., BrickBreak-MAIN.cpp, BrickBreak.cpp, and BrickBreak.hpp) and select them. Click "Add".
+  6. To build the game, go to the "Build" menu and select "Build Solution".
+  7. To run the game, go to the "Debug" menu and select "Start Without Debugging" (or press Ctrl+F5).
 
-### INSTALACIJA I POKRETANJE IGRE
-Da biste instalirali BrickBreaker s GitHuba, slijedite ove korake:
+### INSTALLATION AND RUNNING THE GAME
+To install and run BrickBreaker from GitHub, follow these steps:
 
-  1. Idite na stranicu [BrickBreaker GitHub](https://github.com/Cr4zyCRO/Brick-Breaker).
-  2. Pritisnite gumb "Clone or download", a zatim kliknite "Download ZIP".
-  3. Izdvojite ZIP datoteku u mapu na računalu.
-  4. U Visual Studiju otvorite izbornik "File" i odaberite "Open > Project/Solution".
-  5. Dođite do mape u koju ste izdvojili datoteke i odaberite projektnu datoteku (npr. BrickBreaker.sln). Pritisnite "Otvori".
-  6. Projekt bi sada trebao biti učitan u Visual Studio. Za izradu i pokretanje igre slijedite upute u gornjem odjeljku "Izrada i pokretanje igre".
+  1. Go to the BrickBreaker GitHub page.
+  2. Click the "Clone or download" button, then click "Download ZIP".
+  3. Extract the ZIP file into a folder on your computer.
+  4. Locate the extracted BrickBreaker.exe file.
+  5. Double-click on the BrickBreaker.exe file to run the game.
     
-## ZNAČALJKE
-1 razina igranja
+## FEATURES
+One level of gameplay
 
-## MOGUĆA POBOLJŠANJA
-  1. Bodovanje razine
-  2. Dodavanje više razina
-  3. Implementacija pojačanja (power-ups)
-  4. Korištenje GUI biblioteke (kao što je Qt ili SDL) umjesto konzole
+## POSSIBLE IMPROVEMENTS
+  1. Level scoring
+  2. Adding more levels
+  3. Implementation of power-ups
+  4. Using a GUI library (such as Qt or SDL) instead of the console
 
-## LICENCA
-BrickBreaker je licenciran pod licencom MIT-a. To znači da možete slobodno koristiti, mijenjati i distribuirati igru sve dok uključite originalnu obavijest o autorskim pravima i licenci.
+## LICENSE
+BrickBreaker is licensed under the MIT license. This means that you are free to use, modify, and distribute the game as long as you include the original copyright notice and license.
 
-## DOPRINOS
-Ako želite pridonijeti BrickBreakeru, slobodno otvorite zahtjev za povlačenje ili prijavite problem na GitHub stranici projekta. Prihvaćamo sve doprinose, velike ili male!
+## CONTRIBUTION
+If you would like to contribute to BrickBreaker, feel free to open a pull request or report an issue on the project's GitHub page. We welcome all contributions, big or small!
 
